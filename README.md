@@ -1,5 +1,5 @@
 # DMARC how-to
-This how-to is created by the Dutch Internet Standards Platform (the organization behind [internet.nl](https://internet.nl)) and is meant to provide practical information and guidance on implementing DMARC.
+This how-to is created by the Dutch Internet Standards Platform (the organization behind [internet.nl](https://internet.nl)).
 
 # Table of contents
 - [What is DMARC?](#what-is-dmarc-)
